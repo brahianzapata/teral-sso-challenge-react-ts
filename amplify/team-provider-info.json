@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-teralssochallengerea-dev-170734-authRole",
+      "UnauthRoleArn": "arn:aws:iam::654654557431:role/amplify-teralssochallengerea-dev-170734-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::654654557431:role/amplify-teralssochallengerea-dev-170734-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-teralssochallengerea-dev-170734-deployment",
+      "UnauthRoleName": "amplify-teralssochallengerea-dev-170734-unauthRole",
+      "StackName": "amplify-teralssochallengerea-dev-170734",
+      "StackId": "arn:aws:cloudformation:us-east-2:654654557431:stack/amplify-teralssochallengerea-dev-170734/c64d0f50-dff3-11ee-83f1-0618188a6a23",
+      "AmplifyAppId": "d20wnhiikqhgjd"
+    },
+    "categories": {
+      "auth": {
+        "teralssochallengereab978d1f7": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d20wnhiikqhgjd",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
