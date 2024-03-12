@@ -27,8 +27,8 @@ export const HomePage = () => {
 
   return (
     <div className="d-flex justify-content-center mt-5">
-      <div className="w-50">
-        <h1>Bienvenido</h1>
+      <div className="w-75">
+        <h1 className="mb-5 text-primary">Bienvenido al Reto Técnico Front Teral</h1>
         <h4>Username: { user.username }</h4>
         <h4>UserId: { user?.userId }</h4>
         <h4>Email: { user?.signInDetails?.loginId }</h4>
